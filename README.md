@@ -1,7 +1,7 @@
 # Face Detector
 ตรวจจับใบหน้าคนด้วย Raspberry pi และ python 3
 
-<img src="pic/tool.jpg">
+<img src="MicroProject/tool.jpg">
 
 ## Tools :memo:
 • Raspberry pi
@@ -62,7 +62,7 @@
 • cd ./face_recognition/examples && python3 facerec_on_raspberry_pi.py
 
 ## Result
-<img src="Face Recognition/detect1.mp4">
+<img src="MicroProject/detect1.mp4">
 
-<img src="Face Recognition/detect2.mp4">
+<img src="MicroProject/detect2.mp4">
 
