@@ -62,7 +62,7 @@
 • cd ./face_recognition/examples && python3 facerec_on_raspberry_pi.py
 
 ## Result
-<img src="MicroProject/detect1.mp4">
+<img src="MicroProject/detect1.gif">
 
 <img src="MicroProject/detect2.mp4">
 
