@@ -1,6 +1,8 @@
 # Face Detector
 ตรวจจับใบหน้าคนด้วย Raspberry pi และ python 3
 
+<img src="pic/tool.jpg">
+
 ## Tools :memo:
 • Raspberry pi
 • Camera module
