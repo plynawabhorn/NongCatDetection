@@ -56,6 +56,8 @@
 • sudo apt install libqt4-test
 • pip3 install opencv-python==3.4.6.27
 • pip3 install face_recognition 
+• git clone --single-branch https://github.com/ageitgey/face_recognition.git
+
 ```
 
 ## How to run 
