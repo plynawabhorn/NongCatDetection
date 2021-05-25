@@ -61,11 +61,13 @@
 ```
 
 ## How to run 
-• cd ./face_recognition/examples && python3 facerec_on_raspberry_pi.py
+• cd dlib/build/face_recognition/examples 
+• python3 facerec_on_raspberry_pi.py
 
 ## Result
 
 https://user-images.githubusercontent.com/41178412/119409316-50a4bf80-bd11-11eb-8896-571b1992a03f.mp4
+
 
 
 
